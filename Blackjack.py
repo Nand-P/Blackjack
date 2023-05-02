@@ -6,7 +6,7 @@ It uses object-oriented programming as the foundation of the game.
 
 Author: Nand Patel
 Date: April 19, 2023
-Current Version: v1.10
+Current Version: v1.2
 
 HISTORY:
 v1.00 - Created global variables to store all possible card data to improve organization.
